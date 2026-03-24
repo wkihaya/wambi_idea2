@@ -1,0 +1,8 @@
+numpy
+scipy
+trimesh
+opencv-python
+mediapipe
+deepface
+torch
+transformers
